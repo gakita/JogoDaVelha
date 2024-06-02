@@ -1,5 +1,5 @@
 import os
-import jogador2 as p2
+import jogador2 as p2  # Importa o módulo jogador2, renomeado como p2
 
 # Função para limpar a tela
 # Favor rodar pelo terminal
